@@ -2,8 +2,6 @@
 
 A modern, responsive web-based dictionary application that provides comprehensive word definitions, pronunciations, and usage examples. Built with HTML, CSS, and jQuery, Wordsmith offers an intuitive interface for exploring the English language.
 
-![Wordsmith Dictionary](https://via.placeholder.com/800x400.png?text=Wordsmith+Dictionary)
-
 ## Live Demo
 [View Demo](https://anuragcode-16.github.io/Wordsmith)
 
